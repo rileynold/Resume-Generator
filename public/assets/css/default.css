@@ -1,0 +1,46 @@
+body {
+  margin: 30px 50px 50px 50px;
+  font-family: "Droid Serif",Georgia,serif;
+}
+
+@font-face {
+  font-family: 'Droid Serif';
+  src: url('/assets/fonts/DroidSerif-Regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-size: 12pt;
+}
+
+h1,h2,h3,h4 {
+  margin: 15px 0 15px 0;
+}
+
+h1#heading { 
+  font-family: "Droid Serif",Georgia,serif;
+  font-weight: bold;
+  font-size: 45pt; 
+}
+
+h2 { 
+  font-size: 25pt;
+  font-family: 'Amaranth', sans-serif; 
+}
+
+h3 {
+  font-family: 'Amaranth', sans-serif; 
+  font-size: 14pt;
+}
+
+h4 {
+  font-family: 'Amaranth', sans-serif; 
+}
+
+p {
+  margin: 10px 0 10px 0;
+}
+
+ul li {
+  margin-left: 20px;
+  list-style-type: square;
+}
+

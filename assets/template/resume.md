@@ -28,7 +28,7 @@
 ## Technical Expertise
 
 ### Programming Languages:
-* PHP, .NET, C++, C, F#, Java, Ruby, Python, Perl
+* PHP, .NET, C++, C, F#, Java, Ruby, Python, Perl, Actionscript, Javascript
 
 ### Markup Languages:
 * HTML, CSS, XML, Markdown
